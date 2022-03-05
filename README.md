@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chancoder8
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in build an App
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me chanhoo9@naver.com
 
